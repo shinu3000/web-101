@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-_50by501_">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="_50by501_" data-name="50by501 " clip-path="url(#clip-_50by501_)">
+    <rect width="50" height="50" fill="rgba(0,0,0,0)"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(7 6)" fill="#00ff13" stroke="#707070" stroke-width="1" opacity="0.6">
+      <rect width="41" height="11" stroke="none"/>
+      <rect x="0.5" y="0.5" width="40" height="10" fill="none"/>
+    </g>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(7 20)" fill="#08ffe6" stroke="#707070" stroke-width="1">
+      <ellipse cx="9" cy="8.5" rx="9" ry="8.5" stroke="none"/>
+      <ellipse cx="9" cy="8.5" rx="8.5" ry="8" fill="none"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" y2="29" transform="translate(31.5 20.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(38 20)" fill="red" stroke="#707070" stroke-width="1" opacity="0.76">
+      <rect width="10" height="28" stroke="none"/>
+      <rect x="0.5" y="0.5" width="9" height="27" fill="none"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(7 39)" fill="#f6ff00" stroke="#707070" stroke-width="1">
+      <rect width="21" height="9" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="8" fill="none"/>
+    </g>
+  </g>
+</svg>
